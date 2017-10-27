@@ -26,12 +26,29 @@
 	#url {
 		background-color: transparent;
 	}
-	#head{
-				font-family: bat;
-		color: white;
-	}
-</style>
+=
 <div class="col-sm-12 text-center" id="head">
+<h1>@ BAT SETTINGS</h1>
+<br/>
+<p>if you came to this page unknowingly then remember that your ip has been saved to logs</p>
+<br/><br/><br/><br/><br/><br/>
+</div>
+<div class="col-sm-3"></div>
+<div class="col-sm-6 text-center" id="settings"><div class="col-sm-12 text-center" id="head">
+<h1>@ BAT SETTINGS</h1>
+<br/>
+<p>if you came to this page unknowingly then remember that your ip has been saved to logs</p>
+<br/><br/><br/><br/><br/><br/>
+</div>
+<div class="col-sm-3"></div>
+<div class="col-sm-6 text-center" id="settings"><div class="col-sm-12 text-center" id="head">
+<h1>@ BAT SETTINGS</h1>
+<br/>
+<p>if you came to this page unknowingly then remember that your ip has been saved to logs</p>
+<br/><br/><br/><br/><br/><br/>
+</div>
+<div class="col-sm-3"></div>
+<div class="col-sm-6 text-center" id="settings"><div class="col-sm-12 text-center" id="head">
 <h1>@ BAT SETTINGS</h1>
 <br/>
 <p>if you came to this page unknowingly then remember that your ip has been saved to logs</p>
