@@ -34,6 +34,10 @@ include 'include.php';
 		font-size: 100px;
 
 	}
+	#head {
+		font-size: 100px;
+
+	}
 
 #back {
 
