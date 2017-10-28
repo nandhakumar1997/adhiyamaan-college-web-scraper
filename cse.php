@@ -1,14 +1,6 @@
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <?php 
-
 include 'include.php';
-
-
-
-
-
-
-
 ?>
 
 <style>
@@ -48,23 +40,6 @@ color: white;
 
 	border-bottom: 1px solid #eee;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 @charset "utf-8";
 body {
